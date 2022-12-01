@@ -1,0 +1,29 @@
+F:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Debug\Ricerca operativa.exe.config
+F:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Debug\Ricerca operativa.exe
+F:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Debug\Ricerca operativa.pdb
+F:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.csprojAssemblyReference.cache
+F:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca_operativa.Form1.resources
+F:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca_operativa.Properties.Resources.resources
+F:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.csproj.GenerateResource.cache
+F:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.csproj.CoreCompileInputs.cache
+F:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.exe
+F:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.pdb
+C:\Users\Simone\Desktop\Scuola\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.csprojAssemblyReference.cache
+C:\Users\Simone\Desktop\Scuola\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca_operativa.Form1.resources
+C:\Users\Simone\Desktop\Scuola\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca_operativa.Properties.Resources.resources
+C:\Users\Simone\Desktop\Scuola\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.csproj.GenerateResource.cache
+C:\Users\Simone\Desktop\Scuola\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.csproj.CoreCompileInputs.cache
+C:\Users\Simone\Desktop\Scuola\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.exe
+C:\Users\Simone\Desktop\Scuola\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.pdb
+C:\Users\Simone\Desktop\Scuola\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Debug\Ricerca operativa.exe.config
+C:\Users\Simone\Desktop\Scuola\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Debug\Ricerca operativa.exe
+C:\Users\Simone\Desktop\Scuola\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Debug\Ricerca operativa.pdb
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Debug\Ricerca operativa.exe.config
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.exe
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.pdb
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.csprojResolveAssemblyReference.cache
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca_operativa.Form1.resources
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca_operativa.Properties.Resources.resources
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Debug\Ricerca operativa.csproj.GenerateResource.Cache
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Debug\Ricerca operativa.exe
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Debug\Ricerca operativa.pdb

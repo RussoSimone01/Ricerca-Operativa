@@ -1,0 +1,9 @@
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Release\Ricerca operativa.exe.config
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Release\Ricerca operativa.exe
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\bin\Release\Ricerca operativa.pdb
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Release\Ricerca_operativa.Form1.resources
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Release\Ricerca_operativa.Properties.Resources.resources
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Release\Ricerca operativa.csproj.GenerateResource.Cache
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Release\Ricerca operativa.exe
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Release\Ricerca operativa.pdb
+D:\GeP\Ricerca operativa\Ricerca operativa\Ricerca operativa\obj\Release\Ricerca operativa.csprojResolveAssemblyReference.cache
